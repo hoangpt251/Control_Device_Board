@@ -3,7 +3,7 @@ This board will be designed to control 12 devices base on Arduino controller uni
 
 This board was design for controlling 12 devices, where:
    - 8 devices can ON/OFF AC load
-   - 4 devices can ON/OFF DC load (maximum 24VDC)
+   - 4 devices can ON/OFF DC load (maximum 12VDC)
 
 Board was based on Arduino Nano schematic with ATmega328P microcontroller
 and display the status on LCD 16x2.
